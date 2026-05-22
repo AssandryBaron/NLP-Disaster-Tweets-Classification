@@ -5,12 +5,12 @@
 **Universidad:** Universidad de Antioquia — 2026  
 
 ## Video de presentación
-[Ver video en YouTube](https://youtu.be/TU-LINK-AQUI)
+[Ver video en YouTube](https://youtu.be/DgQoGIrsPT0)
 
 ## Descripción
 Clasificación binaria de tweets para detectar desastres reales
 usando Bidirectional LSTM. Dataset de Kaggle:
-[NLP Getting Started](https://www.kaggle.com/competitions/nlp-getting-started)
+[NLP Getting Started](https://www.kaggle.com/competitions/nlp-getting-started/overview)
 
 ## Cómo reproducir
 1. Descargar train.csv, test.csv y sample_submission.csv desde Kaggle
