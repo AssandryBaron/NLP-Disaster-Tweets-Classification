@@ -20,11 +20,16 @@ usando Bidirectional LSTM. Dataset de Kaggle:
 ## Estructura
 | Archivo | Descripción |
 |---|---|
+| `data` | Datos Kaggle |
+| `models` | Modelos |
 | `01 - exploración de datos.ipynb` | EDA del corpus |
 | `02 - preprocesado.ipynb` | Limpieza y tokenización |
 | `03 - arquitectura de linea de base.ipynb` | Modelo BiLSTM + resultados |
-| `INFORME_PROYECTO.PDF` | Informe ejecutivo |
 | `ENTREGA1.PDF` | Primera entrega del proyecto |
+| `INFORME_PROYECTO.PDF` | Informe ejecutivo del proyecto |
+| `README.md` | --- |
+| `submission.cvs` | Predicciones para Kaggle |
+
 
 ## Resultados
 - F1-Score en validación: ~0.79
